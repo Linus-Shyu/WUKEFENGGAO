@@ -6,8 +6,6 @@ Hi,我是Xu Faxin（许发鑫），我是无可奉告的开发者，你知道的
 
 #### 建议伴随着Imagine这首歌来读一遍，你可以将这首诗认为是论坛的规则。
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1476106&auto=1&height=66"></iframe>
-
 也许这就是我做无可奉告真正的目的了吧，愿大家共勉。
 The Zen of WKFG无可奉告之禅
 
