@@ -1,4 +1,5 @@
 # Hey！欢迎来到无可奉告！
+![psc](https://user-images.githubusercontent.com/83543818/178139043-74f6e86a-9a5c-4d9a-9387-62b947cb47a8.jpg)
 
 ### 这是无可奉告威远初级中学校园论坛在GitHub的代码仓库，如果你能看到这个仓库说明它已经开源完成了开发并部署上线！
 
