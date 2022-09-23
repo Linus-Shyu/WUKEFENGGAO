@@ -3,7 +3,7 @@
 
 ### 目前网站已上线
 
-[](http://www.wukefenggao.club/)
+http://www.wukefenggao.club/
 
 ### 这是无可奉告威远初级中学校园论坛在GitHub的代码仓库，如果你能看到这个仓库说明它已经开源完成了开发并部署上线！
 
